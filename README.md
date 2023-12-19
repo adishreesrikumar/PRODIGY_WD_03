@@ -14,9 +14,7 @@ Welcome to the Tic Tac Toe web application! This simple game is built using HTML
 
 ## Demo
 
-Check out the live demo of the Tic Tac Toe web application: [Live Demo](#)
-
-![Tic Tac Toe Demo](demo-screenshot.png)
+![Tic Tac Toe Demo](demottt.png)
 
 ## Features
 
